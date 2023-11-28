@@ -2746,7 +2746,7 @@
                 "cartodb_id": 8,
                 "country": "Indonesia",
                 "id_1": 34,
-                "state": "Yogyakarta",
+                "state": "DI Yogyakarta",
                 "key": "indonesia-yogyakarta",
                 "slug": "special-region-of-yogyakarta",
                 "name": "Special Region of Yogyakarta"
@@ -5380,7 +5380,7 @@
                 "cartodb_id": 7,
                 "country": "Indonesia",
                 "id_1": 3,
-                "state": "Bangka-Belitung",
+                "state": "Bangka Belitung",
                 "key": "indonesia-bangkabelitung",
                 "name": "Bangka Belitung Islands",
                 "slug": "bangka-belitung-islands"
@@ -12965,7 +12965,7 @@
                 "cartodb_id": 5,
                 "country": "Indonesia",
                 "id_1": 7,
-                "state": "Irian Jaya Barat",
+                "state": "Papua Barat",
                 "key": "indonesia-irianjayabarat",
                 "name": "Special Region of West Papua",
                 "slug": "special-region-of-west-papua"
@@ -52918,7 +52918,7 @@
                 "cartodb_id": 25,
                 "country": "Indonesia",
                 "id_1": 8,
-                "state": "Jakarta Raya",
+                "state": "DKI JAKARTA",
                 "key": "indonesia-jakartaraya",
                 "name": "Jakarta Special Capital Region",
                 "slug": "jakarta-special-capital-region"
@@ -56634,8 +56634,8 @@
                 "id_1": 32,
                 "state": "Sumatera Selatan",
                 "key": "indonesia-sumateraselatan",
-                "name": "South Sulawesi",
-                "slug": "south-sulawesi"
+                "name": "South Sumatera",
+                "slug": "south-Sumatera"
             }
         }
     ]
